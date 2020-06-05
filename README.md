@@ -18,7 +18,7 @@
 
   | Train/In Distribution | Test/Out Distribution | Test/Out Distribution |
   | --------------------- | --------------------- | --------------------- |
-  | MNIST                 | Not MNIST             | MNIST (hold-out 5 classes) |
+  | CIFAR10               | {CIFAR100, SVHN, LSUN}| MNIST (hold-out 5 classes) |
   | FashionMNIST          | MNIST                 | FashionMNIST (hold-out 5 classes) |
   | CIFAR                 | SVHN                  | CIFAR (hold-out 5 classes) |
 

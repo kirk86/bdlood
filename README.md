@@ -1,5 +1,5 @@
  # Comparing & evaluating uncertainty estimation
- ## deep learning point estimate models vs bayesian deep learning density estimators
+ ## deep learning point estimate models vs bayesian deep learning
 
  - Bayesian deep learning methods
    - MC-Dropout

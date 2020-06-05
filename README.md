@@ -18,7 +18,7 @@
 - Results
 ![](./imgs/results_table.png)
 ---
-- Code Attribution
+- <u>Code Attribution</u>
   - [Stochastic Weight Averaging of Gaussian](https://github.com/wjmaddox/swa_gaussian)
   - [Dirichlet Prior Networks](https://github.com/KaosEngineer/PriorNetworks)
   - [Joint Energy Models](https://github.com/wgrathwohl/JEM)

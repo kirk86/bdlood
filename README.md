@@ -21,3 +21,6 @@
   | MNIST                 | Not MNIST             | MNIST (hold-out 5 classes) |
   | FashionMNIST          | MNIST                 | FashionMNIST (hold-out 5 classes) |
   | CIFAR                 | SVHN                  | CIFAR (hold-out 5 classes) |
+
+- Results
+[[./imgs/results_table.png]]

@@ -23,4 +23,4 @@
   | CIFAR                 | SVHN                  | CIFAR (hold-out 5 classes) |
 
 - Results
-[[./imgs/results_table.png]]
+![](./imgs/results_table.png)

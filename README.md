@@ -15,6 +15,17 @@
   | FashionMNIST          | {CIFAR100, CIFAR10, LSUN}|
   | CIFAR100              | {CIFAR10, SVHN, LSUN}|
   | SVHN                  | {CIFAR100, CIFAR10, LSUN}|
+
+- Pretrained Models
+
+  | Pretrained WideResNet28x10 on CIFAR10         |
+  | --------------------- | --------------------- |
+  | DNN                   | {CIFAR100, SVHN, LSUN}|
+  | MC-Dropout            | {CIFAR100, CIFAR10, LSUN}|
+  | SWAG                  | {CIFAR10, SVHN, LSUN}|
+  | DPN                   | {CIFAR100, CIFAR10, LSUN}|
+  | (JEM)[https://www.google.com] |
+
 - Results
 ![](./imgs/results_table.png)
 ---

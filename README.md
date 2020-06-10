@@ -19,11 +19,11 @@
 - Pretrained Models
 
   | Pretrained WideResNet28x10 on CIFAR10         |
-  | --------------------- | --------------------- |
-  | DNN                   | {CIFAR100, SVHN, LSUN}|
-  | MC-Dropout            | {CIFAR100, CIFAR10, LSUN}|
-  | SWAG                  | {CIFAR10, SVHN, LSUN}|
-  | DPN                   | {CIFAR100, CIFAR10, LSUN}|
+  | --------------------------------------------- |
+  | [DNN](https://www.google.com) |
+  | [MC-Dropout](https://www.google.com) |
+  | [SWAG](https://www.google.com) |
+  | [DPN](https://www.google.com) |
   | [JEM](https://www.google.com) |
 
 - Results

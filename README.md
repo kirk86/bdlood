@@ -24,7 +24,7 @@
   | MC-Dropout            | {CIFAR100, CIFAR10, LSUN}|
   | SWAG                  | {CIFAR10, SVHN, LSUN}|
   | DPN                   | {CIFAR100, CIFAR10, LSUN}|
-  | (JEM)[https://www.google.com] |
+  | [JEM](https://www.google.com) |
 
 - Results
 ![](./imgs/results_table.png)

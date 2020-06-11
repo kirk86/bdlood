@@ -20,7 +20,7 @@
 
   | Pretrained WideResNet28x10 on CIFAR10         |
   | --------------------------------------------- |
-  | [DNN](https://www.google.com) |
+  | [DNN](https://drive.google.com/file/d/1hVDuwDvlr3o32QVyfMwmdrtAV7u85ZR9/view?usp=sharing) |
   | [MC-Dropout](https://www.google.com) |
   | [SWAG](https://www.google.com) |
   | [DPN](https://www.google.com) |

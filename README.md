@@ -21,10 +21,10 @@
   | Pretrained WideResNet28x10 on CIFAR10         |
   | --------------------------------------------- |
   | [DNN](https://drive.google.com/file/d/1hVDuwDvlr3o32QVyfMwmdrtAV7u85ZR9/view?usp=sharing) |
-  | [MC-Dropout](https://www.google.com) |
-  | [SWAG](https://www.google.com) |
-  | [DPN](https://www.google.com) |
-  | [JEM](https://www.google.com) |
+  | [MC-Dropout](https://drive.google.com/file/d/1WTNEsKMTNhm8LULA9ud3D558PRXwkbhI/view?usp=sharing) |
+  | [SWAG](https://drive.google.com/file/d/18vxlAPT_xjg_HMFeM1qPKKajopvBXJ5y/view?usp=sharing) |
+  | [DPN](https://drive.google.com/file/d/1eiovYIXnf9fpYdbTdamBeyjnzWt6PhGV/view?usp=sharing) |
+  | [JEM](http://www.cs.toronto.edu/~wgrathwohl/CIFAR10_MODEL.pt) |
 
 - Results
 ![](./imgs/results_table.png)

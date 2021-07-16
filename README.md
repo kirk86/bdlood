@@ -33,3 +33,21 @@
   - [Stochastic Weight Averaging of Gaussian](https://github.com/wjmaddox/swa_gaussian)
   - [Dirichlet Prior Networks](https://github.com/KaosEngineer/PriorNetworks)
   - [Joint Energy Models](https://github.com/wgrathwohl/JEM)
+
+---
+- Cite
+```
+@inbook{mitros2020,
+  author =        {Mitros, John and Pakrashi, Arjun and
+                   Mac Namee, Brian},
+  pages =         {71-87},
+  series =        {European Conference on Computer Vision},
+  title =         {Ramifications of Approximate Posterior Inference for
+                   Bayesian Deep Learning in Adversarial and
+                   Out-of-Distribution Settings},
+  year =          {2020},
+  publisher =     {Springer},
+  doi =           {10.1007/978-3-030-66415-2{\_}5},
+  isbn =          {978-3-030-66414-5},
+}
+```

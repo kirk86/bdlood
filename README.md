@@ -36,7 +36,7 @@
 
 - Cite
 ```
-@inbook{mitros2020,
+@inproceedings{mitros2020,
   author =        {Mitros, John and Pakrashi, Arjun and
                    Mac Namee, Brian},
   pages =         {71-87},

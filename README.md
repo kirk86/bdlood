@@ -46,7 +46,7 @@
                    Out-of-Distribution Settings},
   year =          {2020},
   publisher =     {Springer},
-  doi =           {10.1007/978-3-030-66415-2{\_}5},
+  doi =           {10.1007/978-3-030-66415-2_5},
   isbn =          {978-3-030-66414-5},
 }
 ```
